@@ -32,7 +32,9 @@ build/
 ### VS Code ###
 .vscode/
 
+# Environment variables
 .env
+
 
 # Default ignored files
 /shelf/
